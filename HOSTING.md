@@ -4,7 +4,7 @@ This is the standalone static version of my portfolio. It uses plain HTML, CSS, 
 
 ## Files
 
-Keep `index.html`, `style.css`, `app.js`, and `anchor-logo.png` together in the published site folder. `index.html` is the site entry point.
+Keep `index.html`, `style.css`, `app.js`, and `[UseYours]-logo.png` together in the published site folder. `index.html` is the site entry point.
 
 ## Publish with GitHub Pages
 
